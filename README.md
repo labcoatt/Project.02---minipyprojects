@@ -1,2 +1,2 @@
-# Project.02---minipyprojects
-Mini Python Projects
+# Project.02---mini-projects
+THREEjs - Projects
